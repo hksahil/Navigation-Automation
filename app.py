@@ -25,19 +25,19 @@ st.markdown(hide_st_style, unsafe_allow_html=True)
 new_vc1 =                 {
                     "x": 69.38388625592417,
                     "y": 660.8530805687204,
-                    "z": 0,
-                    "width": 35.26066350710901,
-                    "height": 29.57345971563981,
-                    "config": "{\"name\":\"123104541ae573e00700\",\"layouts\":[{\"id\":0,\"position\":{\"x\":69.38388625592417,\"y\":660.8530805687204,\"z\":0,\"width\":35.26066350710901,\"height\":29.57345971563981}}],\"singleVisual\":{\"visualType\":\"actionButton\",\"drillFilterOtherVisuals\":true,\"objects\":{\"icon\":[{\"properties\":{\"shapeType\":{\"expr\":{\"Literal\":{\"Value\":\"'leftArrow'\"}}},\"lineColor\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#00519C'\"}}}}}},\"selector\":{\"id\":\"default\"}}]}}}",
+                    "z": 13000,
+                    "width": 40,
+                    "height": 40,
+                    "config": "{\"name\":\"123104541ae573e00700\",\"layouts\":[{\"id\":0,\"position\":{\"x\":69.38388625592417,\"y\":660.8530805687204,\"z\":13000,\"width\":40,\"height\":40}}],\"singleVisual\":{\"visualType\":\"actionButton\",\"drillFilterOtherVisuals\":true,\"objects\":{\"icon\":[{\"properties\":{\"shapeType\":{\"expr\":{\"Literal\":{\"Value\":\"'leftArrow'\"}}},\"lineColor\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#00519C'\"}}}}}},\"selector\":{\"id\":\"default\"}}]}}}",
                     "filters": "[]"
                 }
 new_vc2 =                 {
                     "x": 122.8436018957346,
                     "y": 660.8530805687204,
-                    "z": 1,
-                    "width": 32.985781990521325,
-                    "height": 29.57345971563981,
-                    "config": "{\"name\":\"163f28fe1120b90b497d\",\"layouts\":[{\"id\":0,\"position\":{\"x\":122.8436018957346,\"y\":660.8530805687204,\"z\":1,\"width\":32.985781990521325,\"height\":29.57345971563981}}],\"singleVisual\":{\"visualType\":\"actionButton\",\"drillFilterOtherVisuals\":true,\"objects\":{\"icon\":[{\"properties\":{\"shapeType\":{\"expr\":{\"Literal\":{\"Value\":\"'rightArrow'\"}}},\"lineColor\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#00519C'\"}}}}}},\"selector\":{\"id\":\"default\"}}]}}}",
+                    "z": 13000,
+                    "width": 40,
+                    "height": 40,
+                    "config": "{\"name\":\"163f28fe1120b90b497d\",\"layouts\":[{\"id\":0,\"position\":{\"x\":122.8436018957346,\"y\":660.8530805687204,\"z\":13000,\"width\":40,\"height\":40}}],\"singleVisual\":{\"visualType\":\"actionButton\",\"drillFilterOtherVisuals\":true,\"objects\":{\"icon\":[{\"properties\":{\"shapeType\":{\"expr\":{\"Literal\":{\"Value\":\"'rightArrow'\"}}},\"lineColor\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#00519C'\"}}}}}},\"selector\":{\"id\":\"default\"}}]}}}",
                     "filters": "[]"
                 }
 
