@@ -5,7 +5,7 @@ import zipfile
 import io
 import json
 
-st.title('Automate your PowerBI Reports')
+st.title('Add Next and Back buttons to your PowerBI Reports')
 
 # Upload the Source zip file
 ss = st.file_uploader('Upload a PBIX file')
