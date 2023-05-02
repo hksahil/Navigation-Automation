@@ -23,21 +23,21 @@ hide_st_style = """
 st.markdown(hide_st_style, unsafe_allow_html=True)
 # --------- Removing Streamlit's Hamburger and Footer ends ------------
 new_vc1 =                 {
-                    "x": 1073,
+                    "x": 1053,
                     "y": 15,
                     "z": 13000,
                     "width": 35,
                     "height": 35,
-                    "config": "{\"name\":\"123104541ae573e00700\",\"layouts\":[{\"id\":0,\"position\":{\"x\":1073,\"y\":15,\"z\":13000,\"width\":35,\"height\":35}}],\"singleVisual\":{\"visualType\":\"actionButton\",\"drillFilterOtherVisuals\":true,\"objects\":{\"icon\":[{\"properties\":{\"shapeType\":{\"expr\":{\"Literal\":{\"Value\":\"'leftArrow'\"}}},\"lineColor\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#00519C'\"}}}}}},\"selector\":{\"id\":\"default\"}}]}}}",
+                    "config": "{\"name\":\"123104541ae573e00700\",\"layouts\":[{\"id\":0,\"position\":{\"x\":1053,\"y\":15,\"z\":13000,\"width\":35,\"height\":35}}],\"singleVisual\":{\"visualType\":\"actionButton\",\"drillFilterOtherVisuals\":true,\"objects\":{\"icon\":[{\"properties\":{\"shapeType\":{\"expr\":{\"Literal\":{\"Value\":\"'leftArrow'\"}}},\"lineColor\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#00519C'\"}}}}}},\"selector\":{\"id\":\"default\"}}]}}}",
                     "filters": "[]"
                 }
 new_vc2 =                 {
-                    "x": 1120,
+                    "x": 1107,
                     "y": 15,
                     "z": 13000,
                     "width": 35,
                     "height": 35,
-                    "config": "{\"name\":\"163f28fe1120b90b497d\",\"layouts\":[{\"id\":0,\"position\":{\"x\":1120,\"y\":15,\"z\":13000,\"width\":35,\"height\":35}}],\"singleVisual\":{\"visualType\":\"actionButton\",\"drillFilterOtherVisuals\":true,\"objects\":{\"icon\":[{\"properties\":{\"shapeType\":{\"expr\":{\"Literal\":{\"Value\":\"'rightArrow'\"}}},\"lineColor\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#00519C'\"}}}}}},\"selector\":{\"id\":\"default\"}}]}}}",
+                    "config": "{\"name\":\"163f28fe1120b90b497d\",\"layouts\":[{\"id\":0,\"position\":{\"x\":1107,\"y\":15,\"z\":13000,\"width\":35,\"height\":35}}],\"singleVisual\":{\"visualType\":\"actionButton\",\"drillFilterOtherVisuals\":true,\"objects\":{\"icon\":[{\"properties\":{\"shapeType\":{\"expr\":{\"Literal\":{\"Value\":\"'rightArrow'\"}}},\"lineColor\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#00519C'\"}}}}}},\"selector\":{\"id\":\"default\"}}]}}}",
                     "filters": "[]"
                 }
 
